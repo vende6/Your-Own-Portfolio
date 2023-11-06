@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Software Engineering 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Worked in a cross-functional team while delivering software for the leader in the Swiss electrical installation market, Feller by Schneider Electric. Development of a centralized user management portal web application. Maintenance of a customer identity and access management (CIAM) solution provided by Auth0. Hands-on working experience with Auth0 management platform on multiple tenants. Implementing Rules and Hooks as part of authentication pipeline. Familiarizing with Amazon Web Services. Methods and Tools used: Agile Scrum, Azure DevOps, CIAM, OAuth, React, React Native, Node.js, AWS, Serverless Architecture, S3, CloudFormation, CloudFront, RDS, IAM, SNS, DynamoDb, Xamarin",
+    url: "https://squareball.co/work/feller-ag",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+    title: "Cloud computing",
+    description: "Azure certified.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Microsoft Learn Student Ambassador",
+    description: "Contributing to an amazing community.",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Microsofot Imagine Cup Competitor",
+    description: "Smart city initiatives",
+    url: "",
   },
 ];
 

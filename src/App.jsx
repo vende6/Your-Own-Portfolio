@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Damir Krkalić",
-  title: "Senior Fullstack-Developer",
+  title: "Senior Full-stack .NET Azure Developer",
   email: "damir.krkalic@yahoo.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  gitHub: "vende6",
+  instagram: "cyinide_",
+  linkedIn: "damir-krkalic-b52a07176",
+  medium: "@damirkrkalic",
+  twitter: "@DKrkalic",
+  youTube: "@damirkrkalic9763",
 };
 
 const primaryColor = "#4E567E";
