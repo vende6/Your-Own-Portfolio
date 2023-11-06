@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Information technologies student studying at University of Information Technologies 'Džemal Bijedić' in Mostar. I enjoy creating unique and simplistic infrastructure solutions in creative ways.";
+  "I'm an information technology student studying at University of Information Technologies 'Džemal Bijedić' in Mostar. I enjoy creating unique and simplistic infrastructure solutions in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,8 +33,8 @@ const description =
 const skillsList = [
   "Cloud computing",
   "Software architecture",
-  "Software documentation",
-  "docs-as-a-code",
+  "Infrastructure solutions",
+  "Docs-as-a-code",
   "Mobile user interfaces",
   "Mobile development",
 ];
