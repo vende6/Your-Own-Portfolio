@@ -3,8 +3,10 @@
  */
 
 import React from "react";
-import { render } from "react-dom";
+import { createRoot } from "react-dom/client";
 
 import App from "./App";
 
-render(<App></App>, document.getElementById("app"));
+ const root = createRoot(document.getElementById('app'));
+ root.render(<App />);
+
